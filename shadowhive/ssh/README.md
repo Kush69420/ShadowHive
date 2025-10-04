@@ -136,28 +136,6 @@ Enable the `honeypy.service` file with `systemctl enable honeypy.service`.
 
 Start the `honepy.service` file with `systemctl start honepy.service`.
 
-# Video Overview
-
-[![YouTube Video](https://img.youtube.com/vi/tyKyLhcKgNo/0.jpg)](https://youtu.be/tyKyLhcKgNo)
-
-# Future Features
-
-- Write additional support for common protocols:
-- Telnet 
-    - HTTP ✅
-    - HTTP(S)
-    - SMTP
-    - RDP
-    - DNS
-    - Telnet
-- Custom DNS support.
-- Docker support for host-based isolation and code deployment.
-- Systemd support to run Python script in background. ✅
-- Create a basic overview Dashboard. ✅
-- Dynamic Dashboard Updates.
-- Dashboard hosted on seperate host to get results independent on honeypot host.
-- Add SSH Banner Tarpit to trap SSH sessions ✅ (`-t, --tarpit`)
-
 # Helpful Resources
 
 Resources and guides used while developing project.
