@@ -1,11 +1,9 @@
-![HONEPY-Logo](/assets/images/honeypy-logo-black-text.png)
 
 A modular, graphic-based honeypot to capture IP Adresses, usernames, passwords, and commands from various protocols (SSH & HTTP supported right now). Written in Python.
 
 # Install
 
 **1) Clone repository.**
-`git clone https://github.com/collinsmc23/ssh_honeypy.git`
 
 **2) Permissions.**
 Move into `ssh_honeypy` folder.
